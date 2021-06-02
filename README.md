@@ -1,2 +1,2 @@
 # Correlations
-Linear-Pearson
+Linear/Pearson
